@@ -8,4 +8,4 @@
 >SakuraFrp API：  
 >```https://www.natfrp.com```
 ***
-如果我研究明白了的话，我会再添加 **OpenFrp API**
+如果我研究明白了的话，我会再添加 **SakuraFrp API**
